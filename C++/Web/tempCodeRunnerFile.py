@@ -1,0 +1,1 @@
+[3]) + ord(flag[23]) + ord(flag[11]) + ord(flag[0]) + ord(flag[15]) + ord(flag[9]) == 575
